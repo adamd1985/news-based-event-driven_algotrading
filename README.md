@@ -4,7 +4,7 @@ Algo-trading on corporate actions by leveraging NLP. A replicationa and enhancem
 
 ## Dataset
 
-The EDT dataset has been borrowed from *Zhou et al., Findings 2021*. Dataset has all relevant Reuter news up to 2017 scraped by the authors - cite their paper if you wish to use it.
+The EDT dataset has been borrowed from *Zhou et al., Findings 2021*. Dataset has all relevant Reuter, PRNewswire and Businesswire from 2020 to 2021 scraped by the authors - cite their paper if you wish to use it.
 
 ## References and Citations
 
