@@ -5,5 +5,5 @@ protobuf==5.26.1
 scikit_learn==1.4.1.post1
 seaborn==0.13.2
 tensorflow==2.15.1
-tqdm==4.66.2
+tqdm==4.66.3
 transformers==4.38.2
